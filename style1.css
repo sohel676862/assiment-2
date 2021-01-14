@@ -106,6 +106,7 @@
     .header-img img {
         display: block;
         width: 15rem;
+        margin-top: 20px;
     }
     .row {
         text-align: center;
